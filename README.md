@@ -1,3 +1,4 @@
+![logo](https://github.com/AbhishekSinghNik/AbhishekSinghNik/blob/main/Screenshot%20(15).png)
 <h1 align="center">Hi 👋, I'm ABHISHEK SINGH</h1>
 <h3 align="center">Passionate about Technology and Electronics</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
